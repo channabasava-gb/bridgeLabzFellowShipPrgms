@@ -1,0 +1,19 @@
+{
+    "Stock": [
+        {
+            "name": "volvo",
+            "numberofshares": "100",
+            "price": "7000"
+        },
+        {
+            "name": "suzuki",
+            "numberofshares": "150",
+            "price": "5000"
+        },
+        {
+            "name": "maruthiAlto",
+            "numberofshares": "200",
+            "price": "3000"
+        }
+    ]
+}

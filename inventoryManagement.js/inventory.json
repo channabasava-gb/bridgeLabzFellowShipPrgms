@@ -1,0 +1,38 @@
+{
+    "Rice": [
+        {
+            "name": "WhiteRice",
+            "weight": 10,
+            "price": 30
+        },
+        {
+            "name": "cuminRice",
+            "weight": 5,
+            "price": 40
+        }
+    ],
+    "Pulses": [
+        {
+            "name": "Beans",
+            "weight": 8,
+            "price": 12
+        },
+        {
+            "name": "dal",
+            "weight": 17,
+            "price": 43
+        }
+    ],
+    "Wheats": [
+        {
+            "name": "Ashirvad",
+            "weight": 22,
+            "price": 44
+        },
+        {
+            "name": "rain",
+            "weight": 8,
+            "price": 34
+        }
+    ]
+}
